@@ -1,0 +1,16 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:us-east-1:471112719995:repository/clarusway-repo/petclinic-app-staging",
+        "registryId": "471112719995",
+        "repositoryName": "clarusway-repo/petclinic-app-staging",
+        "repositoryUri": "471112719995.dkr.ecr.us-east-1.amazonaws.com/clarusway-repo/petclinic-app-staging",
+        "createdAt": "2024-12-13T13:12:03.322000+00:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": false
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
